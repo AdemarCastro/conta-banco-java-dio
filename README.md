@@ -3,6 +3,9 @@
 ## Descrição do Projeto
 Este é um projeto para criar um programa Java chamado ContaBanco que recebe dados via terminal para registrar as características de uma conta bancária. O programa utiliza a classe ContaTerminal.java para a codificação.
 
+**Importante**
+Este projeto será atualizado com uma versão MVC, a ideia é criar um sistema bancário com Agência > Conta > Cliente. O projeto contará com uma classe de validação dos valores de entrada e também com a seção de testes desenvolvida para validar o sistema.
+
 ## Características da Conta
 O programa irá solicitar ao usuário as seguintes informações sobre a conta bancária:
 
